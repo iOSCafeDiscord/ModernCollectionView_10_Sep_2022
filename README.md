@@ -8,6 +8,9 @@ With Compositional Layout, Apple decided to re-address the problem of making col
 
 With this new powerful layout API, we can build complex layouts without much hassle using a single collection view with multiple sections, each section having its own composed layout.
 
+# Steps to initialize and run project
+* Inside Xcode, go to `File` -> `Packages` -> `Reset Package Caches`
+* Once all packages are resolved,  press `Command + R` to run
 
 # Useful links
 
