@@ -7,3 +7,23 @@ With the release of iOS 13 SDK, Apple introduced a new API in UICollectionView w
 With Compositional Layout, Apple decided to re-address the problem of making collection views easier to use.
 
 With this new powerful layout API, we can build complex layouts without much hassle using a single collection view with multiple sections, each section having its own composed layout.
+
+# Steps to initialize and run project
+* Inside Xcode, go to `File` -> `Packages` -> `Reset Package Caches`
+* Once all packages are resolved,  press `Command + R` to run
+
+# Useful links
+
+#### Refer to the slides : [here](/slides/iOS_Cafe_Event_slides.pptx)
+
+#### WWDC 2019 Video Link for UICollectionViewCompositionalLayout: [here](https://developer.apple.com/videos/play/wwdc2019/215/)
+
+#### Nuke Image Loading System : [here](https://github.com/kean/Nuke)
+
+
+# App Preview
+
+<p float="right">
+	<img src="./screenshot/preview.png" width="300" height="630"/>
+</p>
+
